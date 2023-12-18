@@ -1,0 +1,247 @@
+Name,Flag,Code_2,Code_3,Latitude,Longitude
+Canada,🇨🇦,CA,CAN,56.130366,-106.346771
+United States,🇺🇸,US,USA,37.09024,-95.712891
+Bahamas,🇧🇸,BS,BHM,25.03428,-77.39628
+Barbados,🇧🇧,BB,BRB,13.193887,-59.543198
+Anguilla,🇦🇮,AI,AIA,18.220554,-63.068615
+Antigua and Barbuda,🇦🇬,AG,ATG,17.060816,-61.796428
+"Virgin Islands, British",🇻🇬,VG,VGB,18.420695,-64.639968
+"Virgin Islands, U.S.",🇻🇮,VI,VIR,18.335765,-64.896335
+Bermuda,🇧🇲,BM,BMU,32.321384,-64.75737
+Grenada,🇬🇩,GD,GRD,12.262776,-61.604171
+Turks and Caicos Islands,🇹🇨,TC,TCA,21.694025,-71.797928
+Montserrat,🇲🇸,MS,MSR,16.742498,-62.187366
+Northern Mariana Islands,🇲🇵,MP,MNP,17.33083,145.38469
+Guam,🇬🇺,GU,GUM,13.444304,144.793731
+American Samoa,🇦🇸,AS,ASM,-14.270972,-170.132217
+Saint Lucia,🇱🇨,LC,LCA,13.909444,-60.978893
+Dominica,🇩🇲,DM,DMA,15.414999,-61.370976
+Saint Vincent and the Grenadines,🇻🇨,VC,VCT,12.984305,-61.287228
+Dominican Republic,🇩🇴,DO,DOM,18.735693,-70.162651
+Trinidad and Tobago,🇹🇹,TT,TTO,10.691803,-61.222503
+Saint Kitts and Nevis,🇰🇳,KN,KNA,17.357822,-62.782998
+Jamaica,🇯🇲,JM,JAM,18.109581,-77.297508
+Puerto Rico,🇵🇷,PR,PRI,18.220833,-66.590149
+Egypt,🇪🇬,EG,EGY,26.820553,30.802498
+South Sudan,🇸🇸,SS,SSD,#N/A,#N/A
+Morocco,🇲🇦,MA,MAR,31.791702,-7.09262
+Algeria,🇩🇿,DZ,DZA,28.033886,1.659626
+Tunisia,🇹🇳,TN,TUN,33.886917,9.537499
+Libya,🇱🇾,LY,LBY,26.3351,17.228331
+Gambia,🇬🇲,GM,GMB,13.443182,-15.310139
+Senegal,🇸🇳,SN,SEN,14.497401,-14.452362
+Mauritania,🇲🇷,MR,MRT,21.00789,-10.940835
+Mali,🇲🇱,ML,MLI,17.570692,-3.996166
+Guinea,🇬🇳,GN,GIN,9.945587,-9.696645
+Cote d'Ivoire,🇨🇮,CI,CIV,7.539989,-5.54708
+Burkina Faso,🇧🇫,BF,BFA,12.238333,-1.561593
+Niger,🇳🇪,NE,NER,17.607789,8.081666
+Togo,🇹🇬,TG,TGO,8.619543,0.824782
+Benin,🇧🇯,BJ,BEN,9.30769,2.315834
+Mauritius,🇲🇺,MU,MUS,-20.348404,57.552152
+Liberia,🇱🇷,LR,LBR,6.428055,-9.429499
+Sierra Leone,🇸🇱,SL,SLE,8.460555,-11.779889
+Ghana,🇬🇭,GH,GHA,7.946527,-1.023194
+Nigeria,🇳🇬,NG,NGA,9.081999,8.675277
+Chad,🇹🇩,TD,TCD,15.454166,18.732207
+Central African Republic,🇨🇫,CF,CAF,6.611111,20.939444
+Cameroon,🇨🇲,CM,CMR,7.369722,12.354722
+Cape Verde,🇨🇻,CV,CPV,16.002082,-24.013197
+Sao Tome and Principe,🇸🇹,ST,STP,0.18636,6.613081
+Equatorial Guinea,🇬🇶,GQ,GNQ,1.650801,10.267895
+Gabon,🇬🇦,GA,GAB,-0.803689,11.609444
+Congo,🇨🇬,CG,COG,-0.228021,15.827659
+"Congo, The Democratic Republic of the Congo",🇨🇩,CD,COD,-4.038333,21.758664
+Angola,🇦🇴,AO,AGO,-11.202692,17.873887
+Guinea-Bissau,🇬🇼,GW,GNB,11.803749,-15.180413
+British Indian Ocean Territory,🇮🇴,IO,IOT,-6.343194,71.876519
+Seychelles,🇸🇨,SC,SYC,-4.679574,55.491977
+Sudan,🇸🇩,SD,SDN,12.862807,30.217636
+Rwanda,🇷🇼,RW,RWA,-1.940278,29.873888
+Ethiopia,🇪🇹,ET,ETH,9.145,40.489673
+Somalia,🇸🇴,SO,SOM,5.152149,46.199616
+Djibouti,🇩🇯,DJ,DJI,11.825138,42.590275
+Kenya,🇰🇪,KE,KEN,-0.023559,37.906193
+Tanzania,🇹🇿,TZ,TZA,-6.369028,34.888822
+Uganda,🇺🇬,UG,UGA,1.373333,32.290275
+Burundi,🇧🇮,BI,BDI,-3.373056,29.918886
+Mozambique,🇲🇿,MZ,MOZ,-18.665695,35.529562
+Zambia,🇿🇲,ZM,ZMB,-13.133897,27.849332
+Madagascar,🇲🇬,MG,MDG,-18.766947,46.869107
+French Southern Territories,🇹🇫,TF,ATF,-49.280366,69.348557
+Mayotte,🇾🇹,YT,MYT,-12.8275,45.166244
+Reunion,🇷🇪,RE,REU,-21.115141,55.536384
+Zimbabwe,🇿🇼,ZW,ZWE,-19.015438,29.154857
+Namibia,🇳🇦,NA,NAM,-22.95764,18.49041
+Malawi,🇲🇼,MW,MWI,-13.254308,34.301525
+Lesotho,🇱🇸,LS,LSO,-29.609988,28.233608
+Botswana,🇧🇼,BW,BWA,-22.328474,24.684866
+Swaziland,🇸🇿,SZ,SWZ,-26.522503,31.465866
+Comoros,🇰🇲,KM,COM,-11.875001,43.872219
+South Africa,🇿🇦,ZA,ZAF,-30.559482,22.937506
+Saint Helena,🇸🇭,SH,SHN,-24.143474,-10.030696
+Eritrea,🇪🇷,ER,ERI,15.179384,39.782334
+Aruba,🇦🇼,AW,ABW,12.52111,-69.968338
+Faroe Islands,🇫🇴,FO,FRO,61.892635,-6.911806
+Greenland,🇬🇱,GL,GRL,71.706936,-42.604303
+Greece,🇬🇷,GR,GRC,39.074208,21.824312
+Netherlands,🇳🇱,NL,NLD,52.132633,5.291266
+Belgium,🇧🇪,BE,BEL,50.503887,4.469936
+France,🇫🇷,FR,FRA,46.227638,2.213749
+Spain,🇪🇸,ES,ESP,40.463667,-3.74922
+Cayman Islands,🇰🇾,KY,CYM,19.513469,-80.566956
+Gibraltar,🇬🇮,GI,GIB,36.137741,-5.345374
+Portugal,🇵🇹,PT,PRT,39.399872,-8.224454
+Luxembourg,🇱🇺,LU,LUX,49.815273,6.129583
+Ireland,🇮🇪,IE,IRL,53.41291,-8.24389
+Iceland,🇮🇸,IS,ISL,64.963051,-19.020835
+Albania,🇦🇱,AL,ALB,41.153332,20.168331
+Malta,🇲🇹,MT,MLT,35.937496,14.375416
+Cyprus,🇨🇾,CY,CYP,35.126413,33.429859
+Åland Islands,🇦🇽,AX,ALA,#N/A,#N/A
+Finland,🇫🇮,FI,FIN,61.92411,25.748151
+Bulgaria,🇧🇬,BG,BGR,42.733883,25.48583
+Hungary,🇭🇺,HU,HUN,47.162494,19.503304
+Lithuania,🇱🇹,LT,LTU,55.169438,23.881275
+Latvia,🇱🇻,LV,LVA,56.879635,24.603189
+Estonia,🇪🇪,EE,EST,58.595272,25.013607
+Moldova,🇲🇩,MD,MDA,47.411631,28.369885
+Armenia,🇦🇲,AM,ARM,40.069099,45.038189
+Belarus,🇧🇾,BY,BLR,53.709807,27.953389
+Andorra,🇦🇩,AD,AND,42.546245,1.601554
+Monaco,🇲🇨,MC,MCO,43.750298,7.412841
+San Marino,🇸🇲,SM,SMR,43.94236,12.457777
+Vatican City,🇻🇦,VA,VAT,41.902916,12.453389
+Ukraine,🇺🇦,UA,UKR,48.379433,31.16558
+Serbia,🇷🇸,RS,SRB,44.016521,21.005859
+Montenegro,🇲🇪,ME,MNE,42.708678,19.37439
+Kosovo,🇽🇰,XK,KSV,42.602636,20.902977
+Croatia,🇭🇷,HR,HRV,45.1,15.2
+Slovenia,🇸🇮,SI,SVN,46.151241,14.995463
+Bosnia and Herzegovina,🇧🇦,BA,BIH,43.915886,17.679076
+North Macedonia,🇲🇰,MK,MKD,41.608635,21.745275
+Italy,🇮🇹,IT,ITA,41.87194,12.56738
+Romania,🇷🇴,RO,ROU,45.943161,24.96676
+Switzerland,🇨🇭,CH,CHE,46.818188,8.227512
+Czech Republic,🇨🇿,CZ,CZE,49.817492,15.472962
+Slovakia,🇸🇰,SK,SVK,48.669026,19.699024
+Liechtenstein,🇱🇮,LI,LIE,47.166,9.555373
+Austria,🇦🇹,AT,AUT,47.516231,14.550072
+Guernsey,🇬🇬,GG,GGY,49.465691,-2.585278
+Isle of Man,🇮🇲,IM,IMN,54.236107,-4.548056
+Jersey,🇯🇪,JE,JEY,49.214439,-2.13125
+United Kingdom,🇬🇧,GB,GBR,55.378051,-3.435973
+Denmark,🇩🇰,DK,DNK,56.26392,9.501785
+Sweden,🇸🇪,SE,SWE,60.128161,18.643501
+Bouvet Island,🇧🇻,BV,BVT,-54.423199,3.413194
+Norway,🇳🇴,NO,NOR,60.472024,8.468946
+Svalbard and Jan Mayen,🇸🇯,SJ,SJM,77.553604,23.670272
+Poland,🇵🇱,PL,POL,51.919438,19.145136
+Germany,🇩🇪,DE,DEU,51.165691,10.451526
+Falkland Islands,🇫🇰,FK,FLK,-51.796253,-59.523613
+South Georgia and the South Sandwich Islands,🇬🇸,GS,SGS,-54.429579,-36.587909
+Belize,🇧🇿,BZ,BLZ,17.189877,-88.49765
+Guatemala,🇬🇹,GT,GTM,15.783471,-90.230759
+El Salvador,🇸🇻,SV,SLV,13.794185,-88.89653
+Honduras,🇭🇳,HN,HND,15.199999,-86.241905
+Nicaragua,🇳🇮,NI,NIC,12.865416,-85.207229
+Costa Rica,🇨🇷,CR,CRI,9.748917,-83.753428
+Panama,🇵🇦,PA,PAN,8.537981,-80.782127
+Saint Pierre and Miquelon,🇵🇲,PM,SPM,46.941936,-56.27111
+Haiti,🇭🇹,HT,HTI,18.971187,-72.285215
+Peru,🇵🇪,PE,PER,-9.189967,-75.015152
+Mexico,🇲🇽,MX,MEX,23.634501,-102.552784
+Cuba,🇨🇺,CU,CUB,21.521757,-77.781167
+Argentina,🇦🇷,AR,ARG,-38.416097,-63.616672
+Brazil,🇧🇷,BR,BRA,-14.235004,-51.92528
+Chile,🇨🇱,CL,CHL,-35.675147,-71.542969
+Colombia,🇨🇴,CO,COL,4.570868,-74.297333
+Venezuela,🇻🇪,VE,VEN,6.42375,-66.58973
+Guadeloupe,🇬🇵,GP,GLP,16.995971,-62.067641
+Saint Barthelemy,🇧🇱,BL,BLM,#N/A,#N/A
+Saint Martin,🇲🇫,MF,MAF,#N/A,#N/A
+Bolivia,🇧🇴,BO,BOL,-16.290154,-63.588653
+Guyana,🇬🇾,GY,GUY,4.860416,-58.93018
+Ecuador,🇪🇨,EC,ECU,-1.831239,-78.183406
+French Guiana,🇬🇫,GF,GUF,3.933889,-53.125782
+Paraguay,🇵🇾,PY,PRY,-23.442503,-58.443832
+Martinique,🇲🇶,MQ,MTQ,14.641528,-61.024174
+Suriname,🇸🇷,SR,SUR,3.919305,-56.027783
+Uruguay,🇺🇾,UY,URY,-32.522779,-55.765835
+Netherlands Antilles,,AN,ANT,12.226079,-69.060087
+Malaysia,🇲🇾,MY,MYS,4.210484,101.975766
+Australia,🇦🇺,AU,AUS,-25.274398,133.775136
+Christmas Island,🇨🇽,CX,CXR,-10.447525,105.690449
+Cocos (Keeling) Islands,🇨🇨,CC,CCK,-12.164165,96.870956
+Indonesia,🇮🇩,ID,IDN,-0.789275,113.921327
+Philippines,🇵🇭,PH,PHL,12.879721,121.774017
+New Zealand,🇳🇿,NZ,NZL,-40.900557,174.885971
+Pitcairn Islands,🇵🇳,PN,PCN,-24.703615,-127.439308
+Singapore,🇸🇬,SG,SGP,1.352083,103.819836
+Thailand,🇹🇭,TH,THA,15.870032,100.992541
+Timor-Leste,🇹🇱,TL,TLS,-8.874217,125.727539
+Antarctica,🇦🇶,AQ,ATA,-75.250973,-0.071389
+Heard Island and Mcdonald Islands,🇭🇲,HM,HMD,-53.08181,73.504158
+Norfolk Island,🇳🇫,NF,NFK,-29.040835,167.954712
+Brunei,🇧🇳,BN,BRN,4.535277,114.727669
+Nauru,🇳🇷,NR,NRU,-0.522778,166.931503
+Papua New Guinea,🇵🇬,PG,PNG,-6.314993,143.95555
+Tonga,🇹🇴,TO,TON,-21.178986,-175.198242
+Solomon Islands,🇸🇧,SB,SLB,-9.64571,160.156194
+Vanuatu,🇻🇺,VU,VUT,-15.376706,166.959158
+Fiji,🇫🇯,FJ,FJI,-16.578193,179.414413
+Palau,🇵🇼,PW,PLW,7.51498,134.58252
+Wallis and Futuna,🇼🇫,WF,WLF,-13.768752,-177.156097
+Cook Islands,🇨🇰,CK,COK,-21.236736,-159.777671
+Niue,🇳🇺,NU,NIU,-19.054445,-169.867233
+Samoa,🇼🇸,WS,WSM,-13.759029,-172.104629
+Kiribati,🇰🇮,KI,KIR,-3.370417,-168.734039
+New Caledonia,🇳🇨,NC,NCL,-20.904305,165.618042
+Tuvalu,🇹🇻,TV,TUV,-7.109535,177.64933
+French Polynesia,🇵🇫,PF,PYF,-17.679742,-149.406843
+Tokelau,🇹🇰,TK,TKL,-8.967363,-171.855881
+Federated States of Micronesia,🇫🇲,FM,FSM,7.425554,150.550812
+Marshall Islands,🇲🇭,MH,MHL,7.131474,171.184478
+Kazakhstan,🇰🇿,KZ,KAZ,48.019573,66.923684
+Russia,🇷🇺,RU,RUS,61.52401,105.318756
+Japan,🇯🇵,JP,JPN,36.204824,138.252924
+South Korea,🇰🇷,KR,KOR,35.907757,127.766922
+Vietnam,🇻🇳,VN,VNM,14.058324,108.277199
+North Korea,🇰🇵,KP,PRK,40.339852,127.510093
+Hong Kong,🇭🇰,HK,HKG,22.396428,114.109497
+Macao,🇲🇴,MO,MAC,22.198745,113.543873
+Cambodia,🇰🇭,KH,KHM,12.565679,104.990963
+Laos,🇱🇦,LA,LAO,19.85627,102.495496
+China,🇨🇳,CN,CHN,35.86166,104.195397
+Bangladesh,🇧🇩,BD,BGD,23.684994,90.356331
+Taiwan,🇹🇼,TW,TWN,23.69781,120.960515
+Turkey,🇹🇷,TR,TUR,38.963745,35.243322
+India,🇮🇳,IN,IND,20.593684,78.96288
+Pakistan,🇵🇰,PK,PAK,30.375321,69.345116
+Afghanistan,🇦🇫,AF,AFG,33.93911,67.709953
+Sri Lanka,🇱🇰,LK,LKA,7.873054,80.771797
+Myanmar,🇲🇲,MM,MMR,21.913965,95.956223
+Maldives,🇲🇻,MV,MDV,3.202778,73.22068
+Lebanon,🇱🇧,LB,LBN,33.854721,35.862285
+Jordan,🇯🇴,JO,JOR,30.585164,36.238414
+Syria,🇸🇾,SY,SYR,34.802075,38.996815
+Iraq,🇮🇶,IQ,IRQ,33.223191,43.679291
+Kuwait,🇰🇼,KW,KWT,29.31166,47.481766
+Saudi Arabia,🇸🇦,SA,SAU,23.885942,45.079162
+Yemen,🇾🇪,YE,YEM,15.552727,48.516388
+Oman,🇴🇲,OM,OMN,21.512583,55.923255
+State of Palestine,🇵🇸,PS,PSE,31.952162,35.233154
+United Arab Emirates,🇦🇪,AE,ARE,23.424076,53.847818
+Israel,🇮🇱,IL,ISR,31.046051,34.851612
+Bahrain,🇧🇭,BH,BHR,25.930414,50.637772
+Qatar,🇶🇦,QA,QAT,25.354826,51.183884
+Bhutan,🇧🇹,BT,BTN,27.514162,90.433601
+Mongolia,🇲🇳,MN,MNG,46.862496,103.846656
+Nepal,🇳🇵,NP,NPL,28.394857,84.124008
+Iran,🇮🇷,IR,IRN,32.427908,53.688046
+Tajikistan,🇹🇯,TJ,TJK,38.861034,71.276093
+Turkmenistan,🇹🇲,TM,TKM,38.969719,59.556278
+Azerbaijan,🇦🇿,AZ,AZE,40.143105,47.576927
+Georgia,🇬🇪,GE,GEO,42.315407,43.356892
+Kyrgyzstan,🇰🇬,KG,KGZ,41.20438,74.766098
+Uzbekistan,🇺🇿,UZ,UZB,41.377491,64.585262
